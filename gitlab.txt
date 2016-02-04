@@ -5,8 +5,27 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 GitLab
 
 
+Community Edition
+=================
+o Feature rich: Git repository management, code reviews, issue tracking,
+  activity feeds and wikis.  It comes with GitLab CI for continuous integration
+  and delivery.
+
+o Open Source: MIT licensed, community driven, 700+ contributors, inspect and
+  modify the source, easy to integrate into your infrastructure
+
+o Scalable: support 25,000 users on one server or a highly available
+  active/active cluster
+
+--about.gitlab.com/features/
+
+
 Links
 =====
 GitLab
 Code, test, and deploy together
 https://about.gitlab.com/
+
+GitLab
+Community Edition
+https://about.gitlab.com/features/
