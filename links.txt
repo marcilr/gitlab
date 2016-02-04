@@ -8,8 +8,12 @@ GitLab related links
 
 Links
 =====
-gitlab.txt
-  GitLab
-  Code, test, and deploy together
-  https://about.gitlab.com/
+GitLab
+Code, test, and deploy together
+https://about.gitlab.com/
+
+GitLab
+Community Edition
+https://about.gitlab.com/features/
+
 
