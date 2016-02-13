@@ -8,6 +8,11 @@ GitLab related links
 
 Links
 =====
+Choose GitLab for your next open source project
+Has private repos.  Still a few more questions though.
+Need to read this one.
+https://www.b.agilob.net/choose-gitlab-for-your-next-project/
+
 GitLab
 Code, test, and deploy together
 https://about.gitlab.com/
