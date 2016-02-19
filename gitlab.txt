@@ -20,8 +20,22 @@ o Scalable: support 25,000 users on one server or a highly available
 --about.gitlab.com/features/
 
 
+Advantages
+==========
+o Unlimited repositories
+o Unlimited private collaborators
+o 10GB disk space per project (including Git LFS)
+o Unlimited total disk space
+o Completely free, no credit card required
+o Alternate SSH port for git+ssh (443)
+--about.gitlab.com/gitlab-com/
+
+
 Links
 =====
+Alternate SSH port for git+ssh (443)
+https://about.gitlab.com/2016/02/18/gitlab-dot-com-now-supports-an-alternate-git-plus-ssh-port/
+
 GitLab
 Code, test, and deploy together
 https://about.gitlab.com/
