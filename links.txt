@@ -8,6 +8,9 @@ Syntax related links
 
 Links
 =====
+Create a new Gitlab repo from the command line
+https://coderwall.com/p/r7yh6g/create-a-new-gitlab-repo-from-the-command-line
+
 SSH keys
 GitLab Documentation
 http://doc.gitlab.com/ce/ssh/README.html
