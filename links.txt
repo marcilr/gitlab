@@ -8,6 +8,9 @@ GitLab related links
 
 Links
 =====
+Alternate SSH port for git+ssh (443)
+https://about.gitlab.com/gitlab-com/
+
 Choose GitLab for your next open source project
 Has private repos.  Imports from gtihub.
 Still a few more questions though.  Need to read this one.
