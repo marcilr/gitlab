@@ -27,5 +27,9 @@ https://about.gitlab.com/features/
 GitLab Documentation
 http://doc.gitlab.com/ce/gitlab-basics/command-line-commands.html
 
+SSH keys
+GitLab Documentation
+http://doc.gitlab.com/ce/ssh/README.html
+
 How do I import an existing git project into GitLab?
 http://stackoverflow.com/questions/20359936/how-do-i-import-an-existing-git-project-into-gitlab
