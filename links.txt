@@ -27,6 +27,9 @@ https://about.gitlab.com/features/
 GitLab Documentation
 http://doc.gitlab.com/ce/gitlab-basics/command-line-commands.html
 
+GitLab Master Plan
+https://about.gitlab.com/2016/09/13/gitlab-master-plan/
+
 SSH keys
 GitLab Documentation
 http://doc.gitlab.com/ce/ssh/README.html
