@@ -1,0 +1,38 @@
+links.txt
+Created Thu Feb  4 10:23:38 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+GitLab related links
+
+
+Links
+=====
+Alternate SSH port for git+ssh (443)
+https://about.gitlab.com/gitlab-com/
+
+Choose GitLab for your next open source project
+Has private repos.  Imports from gtihub.
+Still a few more questions though.  Need to read this one.
+https://www.b.agilob.net/choose-gitlab-for-your-next-project/
+
+GitLab
+Code, test, and deploy together
+https://about.gitlab.com/
+
+GitLab
+Community Edition
+https://about.gitlab.com/features/
+
+GitLab Documentation
+http://doc.gitlab.com/ce/gitlab-basics/command-line-commands.html
+
+GitLab Master Plan
+https://about.gitlab.com/2016/09/13/gitlab-master-plan/
+
+SSH keys
+GitLab Documentation
+http://doc.gitlab.com/ce/ssh/README.html
+
+How do I import an existing git project into GitLab?
+http://stackoverflow.com/questions/20359936/how-do-i-import-an-existing-git-project-into-gitlab

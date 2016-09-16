@@ -1,0 +1,45 @@
+gitlab.txt
+Created Thu Feb  4 10:22:29 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+GitLab
+
+
+Community Edition
+=================
+o Feature rich: Git repository management, code reviews, issue tracking,
+  activity feeds and wikis.  It comes with GitLab CI for continuous integration
+  and delivery.
+
+o Open Source: MIT licensed, community driven, 700+ contributors, inspect and
+  modify the source, easy to integrate into your infrastructure
+
+o Scalable: support 25,000 users on one server or a highly available
+  active/active cluster
+
+--about.gitlab.com/features/
+
+
+Advantages
+==========
+o Unlimited repositories
+o Unlimited private collaborators
+o 10GB disk space per project (including Git LFS)
+o Unlimited total disk space
+o Completely free, no credit card required
+o Alternate SSH port for git+ssh (443)
+--about.gitlab.com/gitlab-com/
+
+
+Links
+=====
+Alternate SSH port for git+ssh (443)
+https://about.gitlab.com/2016/02/18/gitlab-dot-com-now-supports-an-alternate-git-plus-ssh-port/
+
+GitLab
+Code, test, and deploy together
+https://about.gitlab.com/
+
+GitLab
+Community Edition
+https://about.gitlab.com/features/
