@@ -1,0 +1,23 @@
+clone.txt
+Created Fri Feb 19 09:01:36 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To work in the project, you can copy a link to the Git repository through a
+SSH or a HTTPS protocol.  SSH is easier to use after it's been setup.[1]  When
+you're in the project, click on the HTTPS or SSH button at the right side of
+your screen.  Then copy the link (you'll have to paste it on your shell in the
+next step).
+
+--doc.gitlab.com/
+
+
+FIXME: Need gitlab url syntax here.
+
+
+Links
+=====
+Command Line basic commands
+GitLab Documentation
+http://doc.gitlab.com/ce/gitlab-basics/command-line-commands.html#start-working-on-your-project
+
